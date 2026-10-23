@@ -1,0 +1,21 @@
+# Customer/payment information and local databases
+*.csv
+*.db
+*.sqlite
+*.sqlite3
+secret.key
+*.key
+.env
+.env.*
+# Notebook and Python artifacts
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+# Reports, potentially sensitive screenshots
+*.pdf
+*.docx
+*.png
+*.jpg
+*.jpeg
