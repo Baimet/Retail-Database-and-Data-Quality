@@ -42,6 +42,7 @@ The dashboard provides SQL-based analysis of retail data, including average prod
 
 ![Retail Analytics Dashboard](screenshots/E6.png)
   
+</details>
 
 ## Project structure
 
