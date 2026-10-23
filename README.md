@@ -16,19 +16,27 @@ A Python, pandas and SQLite project that converts retail transaction data into a
 
 The screenshots below demonstrate the Tkinter applications developed for this project. The customer records and payment-card numbers shown are fictional and used for demonstration purposes.
 
-### 1. Credit Card Updater — Customer Search
 
+<details>
+<summary><strong>1. Credit Card Updater — Customer Search</strong></summary>
+  
 The application allows users to search for customers using their name or CustomerID, select a record, and view existing payment-card information.
 
 ![Credit Card Updater Interface](screenshots/E1.png)
 
-### 2. Credit Card Updater — Successful Update
+</details>
+
+<details>
+<summary><strong>2. Credit Card Updater — Successful Update</strong></summary>
 
 The application supports inserting and updating payment-card details. Following an update, an SQL query verifies the saved information, and a confirmation message is displayed.
 
 ![Successful Card Update](screenshots/Update_successful.png)
 
-### 3. Retail Analytics Dashboard
+</details>
+
+<details>
+<summary><strong>3. Retail Analytics Dashboard</strong></summary>
 
 The dashboard provides SQL-based analysis of retail data, including average product prices, price distributions and the five best-selling products by quantity.
 
