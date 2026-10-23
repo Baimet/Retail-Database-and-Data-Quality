@@ -26,13 +26,13 @@ The application allows users to search for customers using their name or Custome
 
 The application supports inserting and updating payment-card details. Following an update, an SQL query verifies the saved information, and a confirmation message is displayed.
 
-![Successful Card Update](screenshots/E6.png)
+![Successful Card Update](screenshots/Update_successful.png)
 
 ### 3. Retail Analytics Dashboard
 
 The dashboard provides SQL-based analysis of retail data, including average product prices, price distributions and the five best-selling products by quantity.
 
-![Retail Analytics Dashboard](screenshots/E5.png)
+![Retail Analytics Dashboard](screenshots/E6.png)
   
 
 ## Project structure
